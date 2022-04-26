@@ -1,6 +1,6 @@
 # Multi-Agent MDP Homomorphic Networks
 
-Training code accompanying the paper:
+Symmetrizer code accompanying the paper:
 
 **Multi-Agent MDP Homomorphic Networks**  
 Elise van der Pol, Herke van Hoof, Frans A. Oliehoek, Max Welling.  
